@@ -77191,7 +77191,7 @@ $1(a){return B.DA},
 $S:479}
 A.EJ.prototype={
 N(a){var s=null
-return A.yr(A.c([A.ja(s,B.DP,B.G,s,new A.dk(s,s,s,A.ed(9),s,B.Ee,B.aV),s,32,s,s,s,s,32),B.MK,B.SC],t.E),B.bA,B.aY,0)}}
+return A.yr(A.c([A.ja(s,B.DP,B.G,s,new A.dk(s,s,s,A.ed(9),s,B.Ee,B.aV),s,32,s,s,s,s,32),B.MK,B.Sz],t.E),B.bA,B.aY,0)}}
 A.ux.prototype={
 ag(){return new A.Lw()}}
 A.Lw.prototype={
@@ -77227,7 +77227,7 @@ if(r.length===0)r="User"
 q=t.X
 A.alM(s,"/home",r,q,q)}},
 N(a){var s=this,r=null,q=s.r?B.im:B.f1
-return A.alZ(A.Je(!0,A.am4(A.apt(q,A.mO(A.c([B.ij,B.yf,B.St,B.eN,B.SE,B.ye,A.uy(s.e,"Enter your email or username",B.nb,!1,"Email or Username",new A.aed()),B.hI,A.uy(s.f,"Enter your password",B.jF,!0,"Password",new A.aee()),B.MQ,new A.eP(B.lq,r,r,A.amd(B.SB,new A.aef(a),r),r),B.MM,new A.xK("Log In",B.DD,s.ga3Z(),r),B.yd,A.j9(A.qi(r,A.J7(r,r,r,B.bU,r,r,!0,r,B.O4,B.aJ,r,r,B.au,B.aK),B.aA,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aeg(a),r,r,r,r,r,r),r,r)],t.E),B.aN,B.aY),s.d),B.iZ),!0))}}
+return A.alZ(A.Je(!0,A.am4(A.apt(q,A.mO(A.c([B.ij,B.yf,B.St,B.eN,B.SE,B.ye,A.uy(s.e,"Enter your email or username",B.nb,!1,"Email or Username",new A.aed()),B.hI,A.uy(s.f,"Enter your password",B.jF,!0,"Password",new A.aee()),B.MQ,new A.eP(B.lq,r,r,A.amd(B.SC,new A.aef(a),r),r),B.MM,new A.xK("Log In",B.DD,s.ga3Z(),r),B.yd,A.j9(A.qi(r,A.J7(r,r,r,B.bU,r,r,!0,r,B.O4,B.aJ,r,r,B.au,B.aK),B.aA,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.aeg(a),r,r,r,r,r,r),r,r)],t.E),B.aN,B.aY),s.d),B.iZ),!0))}}
 A.aec.prototype={
 $0(){return this.a.r=!0},
 $S:0}
@@ -77306,7 +77306,7 @@ q=A.ed(16)
 q=A.ja(n,A.mO(A.c([A.fa("Welcome, "+m+"!",n,n,n,B.Pd,n,n),B.eN,B.Sy],r),B.aN,B.aY),B.G,n,new A.dk(n,n,n,q,n,B.Ed,B.aV),n,n,n,B.mH,n,n,1/0)
 p=A.ja(n,B.C1,B.G,n,new A.dk(B.k,n,n,A.ed(16),A.c([new A.cU(0,B.ck,A.az(8,B.l.B()>>>16&255,B.l.B()>>>8&255,B.l.B()&255),B.k8,10)],t.sq),n,B.aV),n,n,n,B.Da,n,n,1/0)
 o=A.aAv(n,n,B.BK,n,n,n,n,n,n,n,n,n,n,n,new A.cC(A.ed(30),B.q),B.zO,n,n,n,n)
-return A.alZ(A.Je(!0,A.am4(A.mO(A.c([s,B.hJ,q,B.MN,p,B.hJ,B.SF,B.kJ,B.Ug,B.hJ,B.SA,B.kJ,B.KR,B.MO,A.hN(new A.I9(!0,new A.ZX(a),n,n,n,o,n,n,!1,n,!0,n,new A.OG(B.SD,B.DQ,o,n,n),n),50,1/0)],r),B.aN,B.aY),B.iZ),!0))}}
+return A.alZ(A.Je(!0,A.am4(A.mO(A.c([s,B.hJ,q,B.MN,p,B.hJ,B.SF,B.kJ,B.Ug,B.hJ,B.SB,B.kJ,B.KR,B.MO,A.hN(new A.I9(!0,new A.ZX(a),n,n,n,o,n,n,!1,n,!0,n,new A.OG(B.SD,B.DQ,o,n,n),n),50,1/0)],r),B.aN,B.aY),B.iZ),!0))}}
 A.ZX.prototype={
 $0(){var s=t.X
 A.alM(this.a,"/",null,s,s)},
@@ -81226,8 +81226,8 @@ B.Ox=new A.j(!0,B.cq,null,null,null,null,16,B.b1,null,null,null,null,null,null,n
 B.Sw=new A.dV("Mobile App Developer",null,B.Ox,null,null,null,null,null,null)
 B.eN=new A.cR(null,6,null,null)
 B.QB=new A.j(!0,B.cr,null,null,null,null,12.5,null,null,null,null,null,1.4,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sz=new A.dV("I build clean, user-friendly mobile apps with Flutter \u2014 this project showcases a simple login and sign-up flow.",null,B.QB,null,null,null,null,null,null)
-B.Gi=s([B.Sw,B.eN,B.Sz],t.E)
+B.SA=new A.dV("I build clean, user-friendly mobile apps with Flutter \u2014 this project showcases a simple login and sign-up flow.",null,B.QB,null,null,null,null,null,null)
+B.Gi=s([B.Sw,B.eN,B.SA],t.E)
 B.C1=new A.va(B.av,B.bA,B.aY,B.aN,null,B.cO,null,0,B.Gi,null)
 B.fs=new A.fS(0,"cut")
 B.ft=new A.fS(1,"copy")
@@ -83450,12 +83450,12 @@ B.Su=new A.dV("Fill in your details to get started.",null,B.yJ,null,null,null,nu
 B.Sv=new A.dV("Create account",null,B.yI,null,null,null,null,null,null)
 B.Q7=new A.j(!0,B.K,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Sy=new A.dV("You're logged in and everything is synced.",null,B.Q7,null,null,null,null,null,null)
-B.yL=new A.j(!0,B.cq,null,null,null,null,15,B.b1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SA=new A.dV("Projects",null,B.yL,null,null,null,null,null,null)
-B.RQ=new A.j(!0,B.bt,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SB=new A.dV("Forgot password?",null,B.RQ,null,null,null,null,null,null)
 B.Ow=new A.j(!0,B.cq,null,null,null,null,16,B.b1,null,0.2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.SC=new A.dV("Nova",null,B.Ow,null,null,null,null,null,null)
+B.Sz=new A.dV("ALPHA",null,B.Ow,null,null,null,null,null,null)
+B.yL=new A.j(!0,B.cq,null,null,null,null,15,B.b1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.SB=new A.dV("Projects",null,B.yL,null,null,null,null,null,null)
+B.RQ=new A.j(!0,B.bt,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.SC=new A.dV("Forgot password?",null,B.RQ,null,null,null,null,null,null)
 B.QT=new A.j(!0,B.dV,null,null,null,null,null,B.eb,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.SD=new A.dV("Log Out",null,B.QT,null,null,null,null,null,null)
 B.SE=new A.dV("Enter your credentials to access your account.",null,B.yJ,null,null,null,null,null,null)

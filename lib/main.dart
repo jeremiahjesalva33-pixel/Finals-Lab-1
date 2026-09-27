@@ -64,7 +64,7 @@ class AppLogo extends StatelessWidget {
         ),
         const SizedBox(width: 8),
         const Text(
-          'Nova',
+          'ALPHA',
           style: TextStyle(
             fontSize: 16,
             fontWeight: FontWeight.bold,
